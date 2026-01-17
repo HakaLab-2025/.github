@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🧪 HakaLab
+<img src="https://assets.softr-files.com/applications/514bcbe9-74a5-412f-9b3f-1cbe55ae2a64/assets/abd60b7d-52c0-4c5f-af54-7a8bea767ee2.png" alt="HakaLab Logo" width="300"/>
+
+# HakaLab
 
 ### Impulsamos tu calidad digital
 
